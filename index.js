@@ -237,7 +237,7 @@ let text;
 
 function scoreFunc() {
     let loader = new FontLoader();
-    loader.load("./assets/fonts/Beibanchuanyouran_Regular.json", (font) => {
+    loader.load("./assets/fonts/Xiangjiao-xiaoxingyunilinggan_Regular.json", (font) => {
         const geometry = new TextGeometry(`${score}`, {
             font: font,
             size: 8,
