@@ -1,0 +1,2 @@
+# 2025SnakeGame
+2025蛇年3D贪吃蛇游戏是一款用JavaScript和ThreeJS编写的贪吃蛇游戏
